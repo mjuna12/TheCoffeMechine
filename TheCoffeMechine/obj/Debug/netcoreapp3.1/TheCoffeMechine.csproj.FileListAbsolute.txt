@@ -1,0 +1,11 @@
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+C:\Users\muham\source\repos\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
